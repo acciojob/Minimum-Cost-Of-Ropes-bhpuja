@@ -1,7 +1,6 @@
-
 body {
   font-family: Arial, sans-serif;
-  background-color: #f8f9fa;
+  background-color: #f4f4f9;
   margin: 0;
   padding: 0;
 }
@@ -17,7 +16,7 @@ body {
 }
 
 h1 {
-  color: #343a40;
+  color: #333;
 }
 
 form {
@@ -26,23 +25,23 @@ form {
 
 label {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   font-weight: bold;
 }
 
 input[type="text"] {
-  width: calc(100% - 20px);
+  width: calc(100% - 22px);
   padding: 10px;
   font-size: 16px;
   margin-bottom: 15px;
-  border: 1px solid #ced4da;
+  border: 1px solid #ccc;
   border-radius: 4px;
 }
 
 button {
   padding: 10px 20px;
   font-size: 16px;
-  color: #ffffff;
+  color: #fff;
   background-color: #007bff;
   border: none;
   border-radius: 4px;
@@ -56,5 +55,6 @@ button:hover {
 #result {
   margin-top: 20px;
   font-size: 18px;
-  color: #28a745;
+  color: #007bff;
 }
+
