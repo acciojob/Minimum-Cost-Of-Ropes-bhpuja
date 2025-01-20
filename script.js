@@ -52,3 +52,4 @@ function calculateMinCost(ropeLengths) {
 
   return totalCost;
 }
+
